@@ -1,0 +1,344 @@
+150 193
+BietHanon 31.537721 34.536886 1
+Jaber 31.542222 34.523222 1
+BietLahya 31.550661 34.509391 1
+Atatra 31.558707 34.487174 1
+Jabalia 31.528475 34.479411 1
+Gaza 31.501401 34.468150 1
+jaber 31.49 34.48 1
+AlZahra 31.470931 34.398463 1
+AlMughraqa 31.467599 34.417387 1
+JohrAlDik 31.453792 34.438798 1
+Albareej 31.440283 34.402379 1
+AlNosairat 31.448724 34.393054 1
+AlZawayda 31.430448 34.370987 1
+Almaghazi 31.422862 34.385766 1
+AlMusaddar 31.416555 34.375568 1
+DairAlbalah 31.418017 34.351637 1
+WadiAlsalqa 31.395807 34.364017 1
+AlMa'ani 31.391263 34.353301 1
+AlQarara 31.372104 34.335681 1
+BaniSuhaila 31.342739 34.325304 1
+AbasanAlJadida 31.339235 34.344623 1
+AbsanAlkabir 31.325470 34.345282 1
+KhanYounis 31.346834 34.303897 1
+AlMawasi 31.346943 34.255915 1
+Tal'Aalsultan 31.307775 34.241421 1
+Rafah 31.297239 34.243533 1
+AlQaryaAlsowaydia 31.320099 34.223111 1
+UmKarmeil 31.304931 34.300337 1
+sA1 31.54877626312785 34.528564239526084 0
+sA2 31.544906 34.526442 0
+sA3 31.537178 34.522172 0
+sA4 31.531821 34.519744 0
+sA5 31.529172 34.514501 0
+sA6 31.522288 34.495652 0 
+sA7 31.518301 34.488834 0
+sA8 31.509637 34.475227 0
+sA9 31.506987 34.470846 0
+sA10 31.497484 34.458568 0
+sA11 31.491461 34.452571 0
+sA12 31.479859 34.442438 0
+sA13 31.465642 34.426684 0
+sA14 31.457205 34.416875 0
+sA15 31.443380 34.398065 0
+sA16 31.431261 34.382824 0
+sA17 31.426496 34.377541 0
+sA18 31.418298 34.369646 0
+sA19 31.409655 34.360188 0
+sA20 31.403489 34.353710 0
+sA21 31.394463 34.347827 0
+sA22 31.390839 34.345592 0
+sA23 31.384927 34.340922 0 
+sA24 31.376936 34.333701 0
+sA25 31.371933 34.331519 0
+sA27 31.348315 34.316945 0
+sA28 31.343846 34.314330 0
+sA29 31.340456 34.313528 0
+sA30 31.337435 34.309669 0
+sA31 31.322350 34.315053 0
+sA32 31.310079 34.316558 0
+sA33 31.302858 34.316644 0
+sA34 31.288064 34.313020 0
+sA35 31.279973 34.308767 0
+sA36 31.270130 34.289063 0
+sA37 31.266882 34.280626 0
+bytL1 31.548434 34.518808 0
+bytL2 31.543072 34.513599 0
+bytL3 31.547881 34.501664 0
+bytL4 31.555064 34.491187 0
+bytL5 31.538118 34.508608 0
+bytL6 31.549545 34.497475 0
+atat 31.559504 34.482736 0
+atat1 31.550613 34.481521 0
+atat2 31.553284 34.478909 0
+atat3 31.547274 34.474991 0
+atat4 31.539394 34.465241 0
+atat5 31.535392 34.486515 0
+atat6 31.533235 34.472942 0
+atat7 31.539580 34.482218 0
+rash1 31.546216 34.454597 0
+rash2 31.541823 34.450667 0
+rash3 31.530820 34.440196 0
+rash4 31.527980 34.437977 0
+rash5 31.521999 34.432410 0
+rash6 31.514486 34.425920 0 
+rash7 31.505930 34.418114 0 
+rash8 31.502807 34.414769 0
+rash9 31.486913 34.400909 0
+rash10 31.476453 34.388805 0
+rash11 31.457292 34.370163 0
+rash12 31.443158 34.355985 0
+rash13 31.439217 34.352482 0
+rash14 31.425631 34.338582 0
+rash15 31.410043 34.321633 0
+rash16 31.401781 34.311341 0
+rash17 31.393256 34.300427 0
+rash18 31.382237 34.289057 0
+rash19 31.364788 34.270309 0
+rash24 31.351507 34.254378 0
+rash20 31.345370 34.246500 0
+rash21 31.331452 34.230257 0
+rash22 31.326464 34.234541 0
+rash23 31.316550 34.233035 0
+g_r1 31.501068 34.434432 0
+g_r2 31.511824 34.445703 0
+g_r3 31.514004 34.450374 0
+g_r4 31.525745 34.463645 0
+g_r5 31.527677 34.466453 0
+g_r11 31.525076 34.469296 0
+g_r6 31.515256 34.466464 0
+g_r7 31.508493 34.457782 0
+g_r8 31.507648 34.455550 0
+g_r9 31.520809 34.442312 0
+g_r10 31.532353 34.455147 0
+q_r 31.391239 34.332583 0
+q_r1 31.389616 34.3161300 0
+q_r2 31.379181 34.314603 0
+q_r3 31.376464 34.303126 0
+q_r4 31.378274 34.300779 0
+q_r5 31.376070 34.296560 0
+sa_kh1 31.343514 34.308537 0
+sa_kh2 31.339937 34.305919 0
+sa_kh3 31.342271 34.302191 0
+sa_kh4 31.344379 34.303083 0
+qar_kh 31.361534 34.319906 0
+qar_kh2 31.351451 34.306232 0
+kh_rash 31.355522 34.281384 0
+kh_rash2 31.363917 34.2788220 0
+kh_rash3 31.359811 34.274948 0
+kh_rash4 31.339423 34.253963 0
+kh_rash5 31.345578 34.261026 0
+kh_rafah 31.333720 34.295658 0
+kh_rafah2 31.322198 34.285943 0
+raf_rash1 31.314163 34.272107 0
+raf_rash2 31.309402 34.258005 0
+raf_rash3 31.318862 34.246649 0
+raf_rash4 31.324653 34.243446 0
+raf_rash5 31.307295 34.2370810 0
+raf_rash6 31.307021 34.264989 0
+raf_salah1 31.301892 34.250027 0
+raf_salah2 31.288712 34.263648 0
+raf_salah3 31.279049 34.256194 0
+raf_salah4 31.275269 34.252892 0
+raf_salah5 31.271362 34.257220 0
+raf_salah6 31.282245 34.273744 0
+raf_salah7 31.309854 34.2816590 0
+raf_salah8 31.270174 34.2761900 0
+zawa_rash 31.432403 34.374417 0
+zawa_rash1 31.428496 34.366770 0
+zawa_rash2 31.432087 34.361524 0
+zawa_rash3 31.433040 34.362137 0
+BietHanon sA2
+BietHanon sA3
+BietHanon sA4
+Gaza g_r7
+bytL1 bytL2
+bytL3 BietLahya
+bytL2 BietLahya
+bytL2 bytL3
+bytL5 bytL3
+bytL4 atat1
+bytL6 atat5
+bytL6 bytL3
+bytL6 bytL4
+bytL4 Atatra
+atat1 atat3
+atat3 atat2
+atat4 atat3
+atat3 atat7
+atat7 atat6
+atat7 atat5
+Atatra atat
+atat atat2
+sA1 sA2
+sA1 bytL1
+sA2 sA3
+sA3 sA4
+sA4 sA5
+sA5 sA6
+sA6 sA7
+sA7 sA8
+sA8 sA9
+sA9 Gaza
+Gaza sA10
+sA10 sA11
+sA11 sA12
+sA12 sA13
+sA13 sA14
+sA14 sA15
+sA15 sA16
+sA15 AlNosairat
+sA16 sA17
+sA17 sA18
+sA18 sA19
+sA19 sA20
+sA20 sA21
+sA21 sA22
+sA22 sA23
+sA23 sA24
+sA24 sA25
+sA25 qar_kh
+qar_kh2 qar_kh
+qar_kh2 KhanYounis
+sA25 sA26
+sA26 sA27
+sA27 sA28
+sA28 sA29
+sA29 sA30
+sA30 sA31
+sA31 sA32
+sA32 sA33
+sA33 sA34
+sA34 sA35
+sA35 sA36
+sA36 sA37
+sA5 bytL5
+sA6 Jabalia
+sA14 JohrAlDik
+sA13 JohrAlDik
+sA13 AlMughraqa
+sA11 g_r1
+g_r1 rash7
+Jabalia atat6
+atat6 g_r5
+g_r5 g_r4
+g_r5 g_r11
+g_r11 g_r6
+g_r6 g_r7
+g_r7 g_r8
+g_r8 g_r2
+g_r2 g_r3
+g_r3 g_r4
+g_r3 g_r9
+g_r9 rash4
+g_r10 rash2
+rash1 atat4
+rash1 rash2
+rash2 rash3
+rash3 rash4
+rash4 rash5
+rash5 rash6
+rash6 rash7
+rash7 rash8
+rash8 rash9
+rash9 rash10
+rash10 rash11
+rash11 rash12
+rash12 rash13
+rash13 rash14
+rash14 rash15
+rash15 rash16
+rash16 rash17
+rash17 rash18
+rash18 rash19
+rash19 rash24
+rash24 rash20
+rash20 rash21
+rash21 rash22
+rash22 rash23
+rash8 sA12
+AlMughraqa AlZahra
+AlZahra rash10
+rash11 AlNosairat
+sA15 Albareej
+sA16 zawa_rash
+zawa_rash AlZawayda
+AlZawayda zawa_rash1
+zawa_rash1 zawa_rash2
+zawa_rash2 zawa_rash3
+zawa_rash1 DairAlbalah
+zawa_rash2 DairAlbalah
+rash14 DairAlbalah
+rash13 zawa_rash3
+rash17 q_r1
+q_r q_r1
+q_r1 q_r2
+q_r2 q_r3
+q_r3 q_r4
+q_r4 q_r5
+q_r5 rash18
+sA16 Almaghazi
+sA17 zawa_rash
+sA17 sA17
+sA18 AlMusaddar
+sA19 DairAlbalah
+sA20 WadiAlsalqa
+sA21 WadiAlsalqa
+sA21 AlMa'ani
+sA23 q_r
+sA24 AlQarara
+sA25 AlQarara
+sA28 BaniSuhaila
+BaniSuhaila AbasanAlJadida
+AbasanAlJadida AbsanAlkabir
+BaniSuhaila AbsanAlkabir
+sA28 sa_kh1
+sa_kh1 sa_kh2
+sa_kh2 sa_kh3
+sa_kh3 sa_kh4
+sa_kh4 KhanYounis
+sa_kh3 KhanYounis
+sa_kh4 kh_rash
+sa_kh3 kh_rafah
+kh_rafah kh_rafah2
+sa_kh2 kh_rafah
+sa_kh1 KhanYounis
+sA30 sa_kh1
+sA30 sa_kh2
+kh_rash kh_rash2
+kh_rash kh_rash2
+kh_rash kh_rash3
+kh_rash3 rash19
+kh_rash2 q_r5
+rash24 AlMawasi
+kh_rash5 AlMawasi
+kh_rash4 kh_rash5
+kh_rash5 kh_rash3
+kh_rash4 rash20
+sA32 UmKarmeil
+sA33 UmKarmeil
+sA36 raf_salah6
+sA37 raf_salah8
+raf_salah8 raf_salah5
+raf_salah5 raf_salah4
+raf_salah4 raf_salah3
+raf_salah2 raf_salah6
+raf_salah2 Rafah
+raf_salah2 raf_salah3
+raf_salah3 Rafah
+raf_salah1 Tal'Aalsultan
+kh_rafah2 raf_salah7
+raf_salah7 raf_rash1
+raf_salah7 raf_salah2
+raf_rash1 raf_rash6
+raf_rash6 raf_salah1
+raf_rash2 raf_rash3
+raf_rash3 raf_rash4
+raf_rash4 kh_rash4
+rash22 AlQaryaAlsowaydia
+rash23 AlQaryaAlsowaydia
+raf_rash5 Tal'Aalsultan
+Rafah raf_rash5
+raf_rash5 rash23
+jaber Gaza
